@@ -1,0 +1,25 @@
+" **************************************************************************** "
+"                                                                              "
+"                                                         :::      ::::::::    "
+"    .myvimrc                                           :+:      :+:    :+:    "
+"                                                     +:+ +:+         +:+      "
+"    By: zaz <zaz@staff.42.fr>                      +#+  +:+       +#+         "
+"                                                 +#+#+#+#+#+   +#+            "
+"    Created: 2013/06/15 12:36:36 by zaz               #+#    #+#              "
+"    Updated: 2013/11/20 13:12:22 by avannest         ###   ########.fr        "
+"                                                                              "
+" **************************************************************************** "
+
+"Put your custom Vim configuration here
+
+"Better command completion
+"set wildmenu
+"set wildmode=list:longest
+
+"Show current line
+"set cursorline
+
+syntax on
+set nu
+colorscheme inkpot
+
