@@ -1,0 +1,9 @@
+[user]
+	name = dyarob
+	email = dyarob@gmail.com
+[push]
+	default = simple
+[core]
+	editor = vim
+[color]
+	ui = true
