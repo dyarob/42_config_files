@@ -19,7 +19,7 @@ export MAIL
 
 alias gccf="gcc -Wall -Werror -Wextra"
 alias sn="~/racine/tools/sn/sn.sh"
-alias ls="ls -1"
+alias ls="ls --color -1"
 alias vi="vim"
 alias fauteur="echo avannest > auteur; ls -l auteur; cat -e auteur"
 bindkey -v
