@@ -23,3 +23,13 @@ syntax on
 set nu
 colorscheme inkpot
 
+set tabstop=2
+set shiftwidth=2
+set autoindent
+set smartindent
+set cindent
+
+nnoremap <C-J> <C-W>j
+nnoremap <C-K> <C-W>k
+nnoremap <C-L> <C-W>l
+nnoremap <C-H> <C-W>h

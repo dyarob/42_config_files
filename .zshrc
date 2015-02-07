@@ -24,7 +24,7 @@ alias vi="vim"
 alias fauteur="echo avannest > auteur; ls -l auteur; cat -e auteur"
 bindkey -v
 
-PS1=" Yes Milady?  "
+PS1=" What now?  "
 
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
